@@ -14,17 +14,10 @@
 ---
 🛠 **Technologies & Tools I Work With**
 - **Languages:** Python, C, Java, SQL
-- **Frontend:** HTML5, CSS3
 - **Backend:** Flask, REST APIs
 - **Databases:** SQL
 - **Tools:** Git, Linux, GCC, Makefile
 
----
-
-📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
 
 ✨ **Featured Projects**
 

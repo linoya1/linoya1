@@ -39,6 +39,7 @@ Implemented a full assembler translating custom assembly language into machine-l
 Included preprocessing, lexical analysis, parsing, symbol table management, and machine code generation.
 
 **Tech:** C, Linux, GCC, Makefile
+
 ---
 
 🚀 **Let's Connect** 

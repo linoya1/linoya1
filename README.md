@@ -31,12 +31,8 @@ Machine learning pipeline for predicting stroke risk using clustering, neural ne
 
 Repo: https://github.com/linoya1/stroke-risk-prediction-ml.git
 
-2. **Mission Impossible – Backend Decision System**  
-Backend decision engine for an interactive escape-room style application. Implemented REST APIs, mission decision logic, aircraft classification algorithms, and integrated a face recognition module for guard identification.  
 
-**Tech:** Python, Flask, REST APIs, Face Recognition
-
-3. **Assembler Implementation in C**  
+2. **Assembler Implementation in C**  
 Implemented a full assembler translating custom assembly language into machine-level binary, including preprocessing, lexical analysis, parsing, symbol table management, and multi-stage code generation.  
 
 **Tech:** C, Linux, GCC, Makefile

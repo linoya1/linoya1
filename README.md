@@ -28,7 +28,8 @@ Selected academic and personal software engineering projects:
 Machine learning pipeline for predicting stroke risk using clustering, neural networks, and classification models while addressing imbalanced medical datasets. The project includes data preprocessing, feature engineering, model training, and evaluation using multiple performance metrics.  
 
 **Tech:** Python, Scikit-learn, PyTorch, XGBoost, Pandas, NumPy
-Repo: 
+
+Repo: https://github.com/linoya1/stroke-risk-prediction-ml.git
 
 2. **Mission Impossible – Backend Decision System**  
 Backend decision engine for an interactive escape-room style application. Implemented REST APIs, mission decision logic, aircraft classification algorithms, and integrated a face recognition module for guard identification.  
@@ -39,6 +40,7 @@ Backend decision engine for an interactive escape-room style application. Implem
 Implemented a full assembler translating custom assembly language into machine-level binary, including preprocessing, lexical analysis, parsing, symbol table management, and multi-stage code generation.  
 
 **Tech:** C, Linux, GCC, Makefile
+
 Repo: https://github.com/linoya1/assembler-in-c.git
 
 ---

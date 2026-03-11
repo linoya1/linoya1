@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Linoy Biton!
+# 👋 Hi, I'm Linoy Biton - Computer Science Student
 
 🎯 **About Me**
 - 🎓 Computer Science student (3rd year) at the Open University of Israel
-- 💻 Passionate about backend development, systems programming, and intelligent data-driven technologies, including machine learning applications.
-- 🧠 Strong analytical background from military intelligence and experience researching complex technological systems.
-- 🎯 Currently seeking a **Software Engineering Student Position** where I can contribute to backend and intelligent systems.
+- 💻 Passionate about backend development and intelligent data-driven technologies, including machine learning applications.
+- 🧠 Strong analytical background from military intelligence, with experience identifying patterns and anomalies in complex technological systems and turning uncertainty into actionable insights.
+- 🎯 Currently seeking a **Software Engineering Student Position** where I can contribute to backend development and data-driven systems.
 - 📫 Reach me at: linoya911@gmail.com | [LinkedIn](https://www.linkedin.com/in/linoy-biton/)
 
 ---

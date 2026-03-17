@@ -39,6 +39,14 @@ Implemented a full assembler translating custom assembly language into machine-l
 
 Repo: https://github.com/linoya1/assembler-in-c.git
 
+
+3. **Mission Impossible – Backend-Driven Escape Room System**
+Interactive multi-room web application featuring backend-controlled progression and algorithmic challenges. The system implements server-side validation, state persistence, and modular room logic, including signal classification, anomaly detection, and RSA decryption puzzles.
+
+**Tech:** Python, Flask, Flask-SQLAlchemy, SQLite, NumPy, JavaScript, HTML, CSS, optional C++ (pybind11)
+
+Repo: https://github.com/linoya1/Mission-impossible-escape-room.git
+
 ---
 
 🚀 **Let's Connect** 

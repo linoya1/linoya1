@@ -49,10 +49,12 @@ Repo: https://github.com/linoya1/Mission-impossible-escape-room.git
 
 4.**The eye of godAI - AI Intelligence Dashboard**
 The Eye of GodAI is a full-stack AI intelligence dashboard that analyzes AI-related articles and turns them into structured insights, risk signals, research highlights, and personalized feeds using Groq-based LLM analysis.
+
 **Tech:** React, TypeScript, Vite, FastAPI, Supabase, Groq API, GitHub Actions, Vercel, Render
 
-Repo: 
+Repo: https://github.com/linoya1/The-eye-of-godAI.git
 4ץ
+
 ---
 
 🚀 **Let's Connect** 

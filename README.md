@@ -53,7 +53,7 @@ The Eye of GodAI is a full-stack AI intelligence dashboard that analyzes AI-rela
 **Tech:** React, TypeScript, Vite, FastAPI, Supabase, Groq API, GitHub Actions, Vercel, Render
 
 Repo: https://github.com/linoya1/The-eye-of-godAI.git
-4ץ
+
 
 ---
 
